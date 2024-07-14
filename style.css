@@ -1,5 +1,8 @@
 h1{
     font-size: 100px;
-    color: red;
-    background-color: green;
+    color: black;
+    background-color: rgb(233, 59, 36);
+}
+body{
+    background-color: rebeccapurple;
 }
