@@ -17,7 +17,7 @@
 <p align="left" dir="auto"> <a href="https://twitter.com/rishavchanda" rel="nofollow"><img src="https://camo.githubusercontent.com/03efce2b4294a9afba998c3557f25e324e433614898ee614f684702832f78ac5/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f7269736861766368616e64613f6c6f676f3d74776974746572267374796c653d666f722d7468652d6261646765" alt="rishavchanda" data-canonical-src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&amp;style=for-the-badge" style="max-width: 100%;">
 </a></p><ul dir="auto">
 <li>
-<p dir="auto">🔭 I’m currently working on <strong>Vexa Web App</strong></p>
+<p dir="auto">🔭 I’m currently working on <strong> Web App</strong></p>
 </li>
 <li>
 <p dir="auto">🌱 I’m currently learning <strong>DevOps</strong></p>
